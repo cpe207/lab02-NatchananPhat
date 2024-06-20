@@ -22,6 +22,7 @@ nav{
 }
 .menu li{
     list-style: none;
+    margin-left: 1rem;
 }
 .nav-con a{
     color: white;
@@ -45,20 +46,4 @@ nav{
     text-decoration: none;
     font-size:40px;
     font-family:'Comic Sans MS';
-}
-.Botton {
-    width: 20%;
-	height: 30px;
-	background: #a9a9a9;
-    border-radius: 25px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
-.Botton a{
-    color: white;
-    text-decoration: none;
-    font-size:20px;
-    font-family:'Georgia';
 }
