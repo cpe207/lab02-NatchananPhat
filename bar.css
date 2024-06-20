@@ -24,3 +24,7 @@ nav{
     color: white;
     text-decoration: none;
 }
+.logo a {
+    font-size: 1.5rem;
+    font-weight: bolder;
+}
