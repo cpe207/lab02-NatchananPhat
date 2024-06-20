@@ -17,3 +17,10 @@ nav{
     align-items: center;
     height: 50px;
 }
+.menu li {
+    list-style: none;
+}
+.nav-con a {
+    color: white;
+    text-decoration: none;
+}
