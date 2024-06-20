@@ -31,6 +31,10 @@ nav{
     font-size: 1.5rem;
     font-weight: bolder;
 }
+.menu input:focus {
+    border: 0px;
+    outline: none;
+}
 .Bar{
     width: 100%;
 	height: 80px;
